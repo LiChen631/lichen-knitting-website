@@ -1,0 +1,30 @@
+# ---- 依赖与构建产物 ----
+node_modules/
+.deploy/
+__pycache__/
+*.py[cod]
+
+# ---- 本地部署凭据与日志（绝不提交）----
+.wrangler/
+vault/
+*.log
+auth-url.txt
+login.log
+.env
+.env.*
+*.pem
+*.key
+wrangler.toml.bak
+
+# ---- 编辑器 / 系统 ----
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ---- 本地预览与测试产物 ----
+_diag.html
+live-shots/
+预览截图/
+preview-*/
