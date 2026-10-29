@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.lichen-knitting.workers.dev/sitemap.xml
+Sitemap: https://lichen631.github.io/lichen-knitting-website/sitemap.xml
