@@ -2,7 +2,8 @@
 
 即墨区利晨针织厂（青岛即墨）企业官网：面向国内外采购商展示自有车间、针织设备、三类针织面料与定制加工服务，引导客户通过电话 / 微信询价。
 
-- **线上地址：<https://www.lichen-knitting.workers.dev>**
+- **线上地址（国内可直连）：<https://lichen631.github.io/lichen-knitting-website>**
+- 海外镜像：<https://www.lichen-knitting.workers.dev>（`*.workers.dev` 在大陆被 DNS 污染，国内访问不到）
 - 纯静态网站：无需后端、数据库或构建工具，上传即用
 - 简体中文默认，支持切换商务英文（`?lang=en` 可直接打开英文版）
 - 全部图片 / 视频本地化，不依赖任何外部 CDN

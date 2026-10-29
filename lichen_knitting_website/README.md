@@ -3,7 +3,9 @@
 面向国内外采购商展示工厂、针织面料类别与定制加工服务，并引导客户通过电话 / 微信询价。
 纯静态网站，不需要服务器、数据库或构建工具，直接上传即可运行。
 
-**已上线：<https://www.lichen-knitting.workers.dev>**（Cloudflare Workers 静态托管，HTTPS，免费套餐）
+**已上线：<https://lichen631.github.io/lichen-knitting-website>**（GitHub Pages，国内可直连）
+
+> 另有 Cloudflare Workers 镜像：<https://www.lichen-knitting.workers.dev> —— 该域名在大陆被 DNS 污染，**仅适合海外访问**，国内请用上面的 github.io 地址。
 
 - 默认语言：简体中文；支持切换专业商务英文（`?lang=en` 可直接打开英文版）
 - 全部资源本地化，**不依赖任何外部图片或 CDN**，中国大陆网络可直接打开
@@ -67,7 +69,9 @@ Commons，可免费商用、无需署名。页面上明确标注为「示意图�
 
 ## 一点五、线上地址与发布
 
-线上地址：<https://www.lichen-knitting.workers.dev>
+线上地址（国内可直连）：<https://lichen631.github.io/lichen-knitting-website>
+
+海外镜像：<https://www.lichen-knitting.workers.dev>（大陆被污染，勿用于国内推广）
 
 改完文件后双击项目根目录的 `更新并发布.bat` 即可重新发布；详细说明见项目根目录的《部署与更新说明.md》。
 
